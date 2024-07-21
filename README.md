@@ -7,7 +7,7 @@
 create database notification;
 ```
 
-2. **Создать схемы в БД gpn**
+2. **Создать схемы в БД notification**
 ```
 create schema notification;
 ```
